@@ -20,6 +20,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.2)
+    sequel (5.68.0)
     sqlite3 (1.4.2)
 
 PLATFORMS
@@ -28,6 +29,7 @@ PLATFORMS
 DEPENDENCIES
   pry (~> 0.14.1)
   rspec (~> 3.10)
+    sequel
   sqlite3 (~> 1.4)
 
 BUNDLED WITH
